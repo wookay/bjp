@@ -22,5 +22,13 @@
 
 ---
 
+초보자를 대상으로 하였기에 변수와 타입은 한글과 이모지로도 일부 작성하였다.
+
+더욱 실무적인 문서가 필요한 분은 영문 줄리아 매뉴얼\([http://docs.julialang.org/en/latest/](http://docs.julialang.org/en/latest/)\)을 보거나
+
+구글 번역기\([https://translate.google.com/translate?sl=en&tl=ko&ie=UTF-8&u=http%3A%2F%2Fdocs.julialang.org%2Fen%2Flatest%2F](https://translate.google.com/translate?sl=en&tl=ko&ie=UTF-8&u=http%3A%2F%2Fdocs.julialang.org%2Fen%2Flatest%2F)\)를 통해 한글로 보면 될 것 같다.
+
+
+
 
 
