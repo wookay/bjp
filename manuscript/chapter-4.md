@@ -18,7 +18,7 @@
 
 이번 장에서는 준비물이 필요하다. 다음과 같은 두 패키지를 설치하자.
 
-```
+```julia
 julia> Pkg.add("JuMP") 
 ...
 julia> Pkg.add("Clp") 
@@ -27,7 +27,7 @@ julia> Pkg.add("Clp")
 
 이번 장도 설명은 **7장 과일 알아 맞추기 2부**에서 상세히 다루기로 하고 전체 코드를 입력해 보자.
 
-```
+```julia
 using JuMP
 using Clp
 
@@ -50,7 +50,7 @@ println("🌰  + 🍎  + 🍌  : ", getvalue(🌰  + 🍎  + 🍌 ))
 
 그리고 다음과 같이 **typeof 함수**를 이용해 대상이 어떤 타입인지 보도록 하자.
 
-```
+```julia
 julia> typeof(JuMP)
 Module
 
@@ -69,7 +69,7 @@ Base.#println
 
 **@show 매크로**는 식의 중간 과정을 보여준다.
 
-```
+```julia
 julia> @show 🍎 + 🍎
 🍎 + 🍎 = 2 🍎
 2 🍎

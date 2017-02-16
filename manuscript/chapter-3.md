@@ -23,7 +23,7 @@
 
 프로그램 전체 코드는 다음과 같다.
 
-```
+```julia
 for x in 1:6
     for y in 1:x
         print(y + binomial(x,2), " ")
