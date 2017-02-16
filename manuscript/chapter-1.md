@@ -48,5 +48,5 @@ mk2에서 커피를 홀짝이며 타이핑을 마무리해 본다.
 
 시간날 때 [Julia Korea 페이스북 그룹](https://www.facebook.com/groups/juliakorea/)도 들러주시고요.
 
-그럼 해피 해킹
+그럼 해피 해킹!
 
