@@ -4,5 +4,5 @@
 
 다운로드는 [http://julialang.org/downloads/](http://julialang.org/downloads/) 에서 받을 수 있다.
 
-설치와 관련하여 자세한 사항은 생략한다.
+설치와 관련하여 자세한 내용은 생략한다.
 
