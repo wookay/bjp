@@ -30,9 +30,17 @@
 
 ---
 
-초보자를 대상으로 하였기에 변수와 타입은 한글과 이모지로도 일부 작성하였다.
+초중급자를 대상으로 하였기에 변수와 타입은 한글과 이모지로도 일부 작성하였다.
 
 더욱 실무적인 문서가 필요한 분은 영문 줄리아 매뉴얼\([http://docs.julialang.org/en/latest/](http://docs.julialang.org/en/latest/)\)을 보거나
 
 구글 번역기\([https://translate.google.com/translate?sl=en&tl=ko&ie=UTF-8&u=http%3A%2F%2Fdocs.julialang.org%2Fen%2Flatest%2F](https://translate.google.com/translate?sl=en&tl=ko&ie=UTF-8&u=http%3A%2F%2Fdocs.julialang.org%2Fen%2Flatest%2F)\)를 통해 한글로 보면 될 것 같다.
+
+줄리아는 박사, 연구자, 수학자, 물리학자, 통계학자, 금융업, 펀드, 데이터 분석, 머신러닝에서 현재 쓰이고 있기에
+
+논문을 밥먹듯 보니 앵간한 영문 문서로 충분할 것 같지만
+
+필자의 영어 울렁증과 함께 한글로 보면 또 다른 자료로 없는 것 보다는 나을 거라고
+
+더 나은 자료가 활발히 공유되기를 바래본다.
 
