@@ -25,7 +25,26 @@ julia> Pkg.add("Clp")
 ...
 ```
 
+이번 장도 설명은 **7장 과일 알아 맞추기 2부**에서 상세히 다루기로 하고 전체 코드를 입력해 보자.
 
+```
+using JuMP
+using Clp
+
+m = Model(solver = ClpSolver())
+
+@variable(m, 🍎 )
+@variable(m, 🍌 )
+@variable(m, 🌰 )
+
+@constraint(m, 🍎  + 🍎  + 🍎  == 30)
+@constraint(m, 🍎  + 🍌  + 🍌  == 18)
+@constraint(m, 🍌  - 🌰  == 2)
+
+solve(m)
+
+println("🌰  + 🍎  + 🍌  : ", getvalue(🌰  + 🍎  + 🍌 ))
+```
 
 
 
