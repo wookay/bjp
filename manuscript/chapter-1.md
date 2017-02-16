@@ -36,7 +36,7 @@
 
 구글 번역기\([https://translate.google.com/translate?sl=en&tl=ko&ie=UTF-8&u=http%3A%2F%2Fdocs.julialang.org%2Fen%2Flatest%2F](https://translate.google.com/translate?sl=en&tl=ko&ie=UTF-8&u=http%3A%2F%2Fdocs.julialang.org%2Fen%2Flatest%2F)\)를 통해 한글로 보면 될 것 같다.
 
-줄리아는 박사, 연구자, 교수, 수학자, 물리학자, 통계학자, 금융업, 펀드, 데이터 분석, 머신러닝 등등에서 현재 쓰이고 있기에
+줄리아는 교수, 박사, 연구자, 수학자, 물리학자, 통계학자, 금융업, 펀드, 데이터 분석, 머신러닝 등등에서 현재 쓰이고 있기에
 
 논문을 밥먹듯 보는 분께서는 영문 문서로도 충분할 것 같다.
 
