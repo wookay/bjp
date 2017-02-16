@@ -19,21 +19,21 @@
 
 초보에게 저것을 짜라는 것은 굉장한 요구사항이므로 코드에 대한 설명은 **6장 숫자 삼각형 2부**에서 다룰 것이다.
 
-이 장의 목표는 머리를 비우고 그냥 코드를 따라 입력해 실행하면 저렇게 나오나 결과를 확인하는 것이다.
+이 장의 목표는 머리를 비우고 그냥 코드를 따라 입력해 실행해 저렇게 나오나 결과를 확인하는 것이다.
 
 프로그램 전체 코드는 다음과 같다.
 
-```
+```julia
 for x in 1:6
     for y in 1:x
-        print(y + binomial(x,2), " ")
+        print(y + binomial(x, 2), " ")
     end
     println()
 end
 
 for x in 1:6
     for y in 1:x
-        print(binomial(x-1,y-1), " ")
+        print(binomial(x-1, y-1), " ")
     end
     println()
 end
