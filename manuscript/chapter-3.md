@@ -26,14 +26,14 @@
 ```julia
 for x in 1:6
     for y in 1:x
-        print(y + binomial(x,2), " ")
+        print(y + binomial(x, 2), " ")
     end
     println()
 end
 
 for x in 1:6
     for y in 1:x
-        print(binomial(x-1,y-1), " ")
+        print(binomial(x-1, y-1), " ")
     end
     println()
 end
