@@ -67,5 +67,17 @@ julia> typeof(println)
 Base.#println
 ```
 
+**@show 매크로**는 식의 중간 과정을 보여준다.
 
+```
+julia> @show 🍎 + 🍎
+🍎 + 🍎 = 2 🍎
+2 🍎
+```
+
+**typeof**와 **@show**도 물음표 키를 눌러 도움말로 찾아보자.
+
+help?&gt; **typeof**
+
+help?&gt; **@show**
 
