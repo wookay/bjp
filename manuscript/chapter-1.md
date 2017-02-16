@@ -14,7 +14,9 @@
 
 지금의 현실에서 그것은 본인이나 타인에게 좋은 결과를 주지는 않는다.
 
-뭐든지 상황에 맞게 적용을 하지 않는다면 누군가에겐 즐거움이지만 누군가에겐 또 하나의 스트레스가 아닐까.
+뭐든지 상황에 맞게 적용을 하지 않는다면 누군가에겐 즐거움이겠지만
+
+누군가에겐 결국 또 하나의 스트레스가 되지 않을까.
 
 어느 알 수 없는 커뮤니티가 뭘 만들고 있는 것인지 대부분 관심이 없을 수 있지만
 
@@ -27,8 +29,4 @@
 더욱 실무적인 문서가 필요한 분은 영문 줄리아 매뉴얼\([http://docs.julialang.org/en/latest/](http://docs.julialang.org/en/latest/)\)을 보거나
 
 구글 번역기\([https://translate.google.com/translate?sl=en&tl=ko&ie=UTF-8&u=http%3A%2F%2Fdocs.julialang.org%2Fen%2Flatest%2F](https://translate.google.com/translate?sl=en&tl=ko&ie=UTF-8&u=http%3A%2F%2Fdocs.julialang.org%2Fen%2Flatest%2F)\)를 통해 한글로 보면 될 것 같다.
-
-
-
-
 
