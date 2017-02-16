@@ -39,5 +39,17 @@ for x in 1:6
 end
 ```
 
+이번 장에서 추가로 해 볼 것은 물음표 키\(**?**\)를 눌러 키워드와 함수에 대한 도움말을 보는 것이다.
 
+영어가 불편하면 구글 번역기에 텍스트를 붙여 넣어 보자.
+
+help?&gt; **for**
+
+help?&gt; **end**
+
+help?&gt; **print**
+
+help?&gt; **println**
+
+help?&gt; **binomial**
 
