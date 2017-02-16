@@ -21,3 +21,23 @@
 
 이 장의 목표는 머리를 비우고 그냥 코드를 따라 입력해 저렇게 나오나 결과를 확인하는 것이다.
 
+프로그램의 전체 코드는 다음과 같다.
+
+```
+for x in 1:6
+    for y in 1:x
+        print(y + binomial(x,2), " ")
+    end
+    println()
+end
+
+for x in 1:6
+    for y in 1:x
+        print(binomial(x-1,y-1), " ")
+    end
+    println()
+end
+```
+
+
+
