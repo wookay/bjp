@@ -48,3 +48,5 @@ mk2에서 커피를 홀짝이며 타이핑 해 본다.
 
 \(🤓 사실 출간이 될 지는 아직 모릅니다. leanpub에서 상시 업데이트는 해보겠습니다.\)
 
+광고1. Julia Korea [https://www.facebook.com/groups/juliakorea/](https://www.facebook.com/groups/juliakorea/)
+
