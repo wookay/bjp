@@ -34,9 +34,9 @@
 
 초중급자를 대상으로 하였기에 변수와 타입은 한글과 이모지로도 일부 작성하였다.
 
-더욱 더 실무적인 문서가 필요한 분은 영문 줄리아 매뉴얼\([http://docs.julialang.org/en/latest/](http://docs.julialang.org/en/latest/)\)을 보거나
+더욱 더 실무적인 문서가 필요한 분은 [영문 줄리아 매뉴얼](http://docs.julialang.org/en/latest/)을 보거나
 
-구글 번역기\([https://translate.google.com/translate?sl=en&tl=ko&ie=UTF-8&u=http%3A%2F%2Fdocs.julialang.org%2Fen%2Flatest%2F](https://translate.google.com/translate?sl=en&tl=ko&ie=UTF-8&u=http%3A%2F%2Fdocs.julialang.org%2Fen%2Flatest%2F)\)를 통해 한글로 보면 될 것 같다.
+[구글 번역을 통해 한글](https://translate.google.com/translate?sl=en&tl=ko&ie=UTF-8&u=http%3A%2F%2Fdocs.julialang.org%2Fen%2Flatest%2F)로 보면 될 것 같다.
 
 줄리아는 교수, 박사, 연구자, 수학자, 물리학자, 바이오, 통계학, 금융업, 펀드 투자, 데이터 분석, 머신러닝 등등의 많은 분야에서 현재 쓰이고 있다.
 
@@ -46,5 +46,7 @@ mk2에서 커피를 홀짝이며 타이핑을 마무리해 본다.
 
 \(🤓 책이 출간이 될 지는 아직 모르겠지만 leanpub에서 자주 업데이트를 하겠습니다. 6장부터는 비공개입니다.\)
 
-광고. Julia Korea [https://www.facebook.com/groups/juliakorea/](https://www.facebook.com/groups/juliakorea/)
+시간날 때 [Julia Korea 페이스북 그룹](https://www.facebook.com/groups/juliakorea/)도 들러주시고요.
+
+그럼.
 
