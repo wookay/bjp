@@ -96,7 +96,7 @@ julia> for n in 1:6
 1 2 4 7 11 16
 ```
 
-**for in 문**으로 둘러 싸지 않고 **binomial 함수**를 **1:6**에 적용해 보자. **binomial 함수 **뒤에** 점\(.\)**을 추가하였다.
+**for in 문**으로 둘러 싸지 않고 **binomial 함수**를 **1:6**에 적용해 보자. **binomial 함수** 뒤에 **점\(.\)**을 추가하였다.
 
 ```julia
 julia> binomial.(1:6, 2) + 1
@@ -113,7 +113,7 @@ julia> binomial.(1:6, 2) + 1
 
 ---
 
-그럼 **1+x:n+x **에 대해 출력을 해 보자.
+그럼 **1+x:n+x** 에 대해 출력을 해 보자.
 
 ```julia
 julia> for n in 1:6
