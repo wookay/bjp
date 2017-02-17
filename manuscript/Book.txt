@@ -4,5 +4,3 @@ chapter-3.md
 chapter-4.md
 chapter-5.md
 chapter-6.md
-chapter-7.md
-chapter-8.md

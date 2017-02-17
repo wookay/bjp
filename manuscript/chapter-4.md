@@ -80,4 +80,3 @@ julia> @show 🍎 + 🍎
 help?&gt; **typeof**
 
 help?&gt; **@show**
-
