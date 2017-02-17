@@ -26,7 +26,7 @@ end
 
 **1:6**은 범위를 표현하는데 사용한다. 1부터 6까지를 의미한다.
 
-```
+```julia
 julia> 1:6
 1:6
 
@@ -36,7 +36,7 @@ UnitRange{Int64}
 
 **UnitRange 타입**은 다음과 같이 **for in 문**에 넘겨주어 하나씩 출력할 수 있다. **n**을 출력하면 다음과 같다.
 
-```
+```julia
 julia> for n in 1:6
            println(n)
        end
@@ -52,7 +52,7 @@ julia> for n in 1:6
 
 **a 변수**라고 하고 싶으면 다음과 같이 맞춰 주자.
 
-```
+```julia
 julia> for a in 1:6
            println(a)
        end
@@ -72,7 +72,7 @@ k가 2라면 n개의 아이템에서 두개를 고르는 방법이 몇가지 있
 
 **x 변수**에 **binomial\(n, 2\)**를 넣어서 차례대로 출력해 보자.
 
-```
+```julia
 julia> for n in 1:6
            x = binomial(n, 2)
            println(x)
@@ -89,7 +89,7 @@ julia> for n in 1:6
 
 삼각형에서 행의 첫 숫자들인 **1 2 4 7 11 16**을 구해보자.
 
-```
+```julia
 julia> for n in 1:6
            print(binomial(n, 2) + 1, " ")
        end
@@ -98,7 +98,7 @@ julia> for n in 1:6
 
 **for in 문**으로 둘러 싸지 않고 **binomial 함수**를 **1:6**에 적용해 보자. **binomial 함수 **뒤에** 점\(.\)**을 추가하였다.
 
-```
+```julia
 julia> binomial.(1:6, 2) + 1
 6-element Array{Int64,1}:
   1
@@ -115,7 +115,7 @@ julia> binomial.(1:6, 2) + 1
 
 그럼 **1+x:n+x **에 대해 출력을 해 보자.
 
-```
+```julia
 julia> for n in 1:6
            x = binomial(n, 2)
            println(1+x:n+x)
@@ -130,7 +130,7 @@ julia> for n in 1:6
 
 여기에 **join 함수**를 적용할 수 있다.
 
-```
+```julia
 julia> join(1:1, " ")
 "1"
 
