@@ -80,3 +80,7 @@ julia> @show 🍎 + 🍎
 help?&gt; **typeof**
 
 help?&gt; **@show**
+
+
+
+Next [5장 가위 바위 보](chapter-5.md)

@@ -6,3 +6,6 @@
 
 REPL 환경과 더불어 [주피터 노트북](http://jupyter.org/), [Juno IDE](http://junolab.org/)와 같은 도구가 있으니 참고하자.
 
+
+
+Next [3장 숫자 삼각형](chapter-3.md)
