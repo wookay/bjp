@@ -1,3 +1,3 @@
-BJP 1장에서 6장 입니다. 7장 이후는 구입하시면 볼 수 있습니다.
+아름다운 줄리아 프로그래밍 1장에서 6장 입니다.
 
-https://leanpub.com/bjp
+[manuscript](manuscript)
